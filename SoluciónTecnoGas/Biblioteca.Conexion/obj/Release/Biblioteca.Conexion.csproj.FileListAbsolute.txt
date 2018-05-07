@@ -1,0 +1,5 @@
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\bin\Release\Biblioteca.Conexion.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\bin\Release\Biblioteca.Conexion.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\obj\Release\Biblioteca.Conexion.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\obj\Release\Biblioteca.Conexion.pdb

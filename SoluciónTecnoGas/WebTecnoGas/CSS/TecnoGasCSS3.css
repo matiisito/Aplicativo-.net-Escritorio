@@ -1,0 +1,10 @@
+﻿.botones { border: 2px #FFFFFF none; background-color: #335576; padding: 2px 5px 2px 5px; font-family: Calibri; font-size: 14px; color: White; border-radius: 5px;}
+.botones:active {box-shadow: 0px 0px 5px 0px #000000; }
+.botones:hover {box-shadow: 0px 0px 5px 0px #000000; }
+.membrete { font-family:Calibri; font-size: 14px; font-weight: bold;}
+.center { margin-left: auto; margin-right: auto; }
+.textos {font-size: 14px; font-family:Calibri; text-decoration:none;}
+.botonesMenu {border: 2px #FFFFFF none; background-color: #005847; padding: 5px 30px 5px 30px; font-family: Calibri; font-size: 24px; color: White; border-radius: 5px; text-decoration:none;}
+.botonesMenu:active {box-shadow: 0px 0px 5px 0px #000000; }
+.botonesMenu:hover {box-shadow: 0px 0px 5px 0px #000000; }
+.textboxes {border:1px solid #d1c7ac;width: 230px;background-color:#335576;padding:3px;margin-right:4px;margin-bottom:8px;font-family:Calibri;color:White;}

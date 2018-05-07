@@ -1,0 +1,16 @@
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Biblioteca.Conexion.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Biblioteca.Conexion.pdb
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Biblioteca.Conexion.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Biblioteca.Conexion.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.pdb
+E:\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Biblioteca.Conexion.dll
+E:\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Biblioteca.Conexion.pdb
+E:\SoluciónTecnoGas\Biblioteca.Conexion\bin\Debug\Oracle.DataAccess.dll
+E:\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.csprojResolveAssemblyReference.cache
+E:\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.dll
+E:\SoluciónTecnoGas\Biblioteca.Conexion\obj\Debug\Biblioteca.Conexion.pdb

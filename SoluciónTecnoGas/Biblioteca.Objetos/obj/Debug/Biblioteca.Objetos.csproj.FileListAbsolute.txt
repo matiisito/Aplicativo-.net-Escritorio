@@ -1,0 +1,22 @@
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Objetos.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Objetos.pdb
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Conexion.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Conexion.pdb
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Objetos.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Objetos.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Conexion.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Conexion.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.pdb
+E:\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Objetos.dll
+E:\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Objetos.pdb
+E:\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Conexion.dll
+E:\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Oracle.DataAccess.dll
+E:\SoluciónTecnoGas\Biblioteca.Objetos\bin\Debug\Biblioteca.Conexion.pdb
+E:\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.csprojResolveAssemblyReference.cache
+E:\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.dll
+E:\SoluciónTecnoGas\Biblioteca.Objetos\obj\Debug\Biblioteca.Objetos.pdb

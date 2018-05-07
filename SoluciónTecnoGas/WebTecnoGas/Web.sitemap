@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="LogIn.aspx" title="Ingreso"  description="Ingresar usuario y contraseña">
+        <siteMapNode url="Menu.aspx" title="Menu principal"  description="">
+            <siteMapNode url="Vender.aspx" title="Menu de Ventas"  description="">
+                <siteMapNode url="Venta.aspx" title="Pantalla de venta"  description="" />
+                <siteMapNode url="NotaDeCredito.aspx" title="Pantalla de devoluciones"  description="" />
+            </siteMapNode>
+            <siteMapNode url="Mantenedores.aspx" title="Menu de Mantenedores"  description="">
+                <siteMapNode url="Producto.aspx" title="Mantenedor de Productos"  description="" />
+                <siteMapNode url="CategoriaProducto.aspx" title="Mantenedor de categorias de Productos"  description="" />
+                <siteMapNode url="Contrato.aspx" title="Mantenedor de Contratos"  description="" />
+                <siteMapNode url="Cliente.aspx" title="Mantenedor de Cliente"  description="" />
+                <siteMapNode url="Usuario.aspx" title="Mantenedor de Usuario"  description="" />
+                <siteMapNode url="Terminal.aspx" title="Mantenedor de Terminales"  description="" />
+            </siteMapNode>
+         </siteMapNode>  
+    </siteMapNode>
+</siteMap>

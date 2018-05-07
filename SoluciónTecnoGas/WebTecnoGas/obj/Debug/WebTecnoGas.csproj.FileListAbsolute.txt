@@ -1,0 +1,28 @@
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\bin\WebTecnoGas.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\bin\WebTecnoGas.pdb
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Objetos.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Conexion.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Objetos.pdb
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Conexion.pdb
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.dll
+C:\Users\Pablo\documents\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\bin\WebTecnoGas.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\bin\WebTecnoGas.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Objetos.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Conexion.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Objetos.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Conexion.pdb
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.dll
+C:\Users\Pablo\Desktop\Proyecto de título - TecnoGas  - DuocUc 2015\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.pdb
+E:\SoluciónTecnoGas\WebTecnoGas\bin\WebTecnoGas.dll
+E:\SoluciónTecnoGas\WebTecnoGas\bin\WebTecnoGas.pdb
+E:\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Objetos.dll
+E:\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Conexion.dll
+E:\SoluciónTecnoGas\WebTecnoGas\bin\Oracle.DataAccess.dll
+E:\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Objetos.pdb
+E:\SoluciónTecnoGas\WebTecnoGas\bin\Biblioteca.Conexion.pdb
+E:\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.csprojResolveAssemblyReference.cache
+E:\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.dll
+E:\SoluciónTecnoGas\WebTecnoGas\obj\Debug\WebTecnoGas.pdb
